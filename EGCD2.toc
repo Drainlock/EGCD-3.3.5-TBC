@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: EnemyGlobalCooldown
+## Notes: Tracks Rogue/wars CGD
+## Version: 1.1
+## Author: Drainlock and ChatGPT =)
+## DefaultState: Enabled
+## SavedVariables: EGCD2DB
+
+EGCD2.lua
